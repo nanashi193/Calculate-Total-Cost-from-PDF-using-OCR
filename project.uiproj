@@ -1,0 +1,6 @@
+{
+  "Name": "UI3_Puppy_KC_performer",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
